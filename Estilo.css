@@ -1,0 +1,286 @@
+    #retanguloCabecalho{
+    z-index: 1;
+    position: absolute;
+    min-width: 100%;
+    max-width: 320px;
+    top: 0%;
+    left: 0%;
+    }
+
+    * {
+        margin: 0%;
+        padding: 0%;
+    }
+
+    #mulherCabecalho{
+    min-width: 320PX;
+    max-width: 100%;
+    margin-left: 56%;
+    top: 6.6%;
+    position: absolute;
+    z-index: 3;
+    }
+    
+    #logoCabecalho{
+    min-width: 320PX;
+    max-width: 100%;
+    margin-left: 4%;
+    top: 5%;
+    position: absolute;
+    z-index: 3;
+    }
+
+    #linhaCabecalho{
+    min-width: 20PX;
+    max-width: 100%;
+    left: 0%;
+    top: 3%;
+    position: absolute;
+    z-index: 2;
+    }
+
+    #bolinhasCabecalho{
+        min-width: 20PX;
+        max-width: 100%;
+    margin-left: 22%;
+    top: 15.8%;
+    position: absolute;
+    z-index: 2;
+    }
+
+    #setasCabecalho{
+        min-width: 20PX;
+        max-width: 100%;
+    margin-left: 56%;
+    top: 2%;
+    position: absolute;
+    z-index: 2;
+    }
+
+    #trianguloCabecalho{
+        min-width: 20PX;
+        max-width: 100%;
+    margin-left: 95.6%;
+    top: 0.9%;
+    position: absolute;
+    z-index: 2;
+    }
+
+    #zigzagCabecalho{
+        min-width: 20PX;
+        max-width: 100%;
+    margin-left: 90.5%;
+    top: 17%;
+    position: absolute;
+    z-index: 2;
+    }
+
+    #textoIntroducao{
+        min-width: 30px;
+        max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  14px;
+    color: white;
+    text-align: right;
+    padding: 10px;
+    margin-left: 86.5%;
+    top: 1.8%;
+    position: absolute;
+    z-index: 2;
+    }
+
+    #textoEdicao{
+        min-width: 30px;
+        max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: white;
+    text-align: right;
+    padding: 10px;
+    margin-left: 92.7%;
+    top: 12%;
+    position: absolute;
+    z-index: 2;
+    }
+
+    #entrevista{
+        min-width: 30px;
+        max-width: 100%;
+    margin-left: 340px;
+    padding-top: 170px;
+    top: 19%;
+    position: static;
+    }
+
+    #entrevista p{
+        min-width: 30px;
+        max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 0px;
+    margin-top: 10px;  
+    position: absolute;
+    }
+
+    .entrevista2{
+        min-width: 30px;
+        max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray; 
+    font-size: 15px;
+    margin-left: 25.2%;
+    top: 82%;  
+    position: absolute;
+    }
+
+    .fonteEntrevista{
+        min-width: 30px;
+        max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #d3d3d3;
+    font-style: italic;
+    font-size: 11px;
+    margin-left: 25.3%;
+    top: 89.5%;
+    position: absolute;
+    }
+
+   .linhaNFR { 
+    min-width: 30px;
+        max-width: 100%;
+    margin-top: -21%;
+    margin-left: 25.4%;
+    height: 5px;
+    width: 249px;
+    background: black;
+    background: -webkit-gradient(linear, 20 10, 100% 50, from(#E3285B), to(#6A5BA3),
+    color-stop(100%, #6A5BA3));
+    position: static;
+	}
+
+    .imagemLado{
+            width: 150px;
+            display: inline-block;
+    }
+
+    #basquete{
+        min-width: 30px;
+        max-width: 100%;;
+    margin-left: 228%;
+    margin-top: 19.5%;
+    position:relative;
+    display: inline-block;
+    }
+
+    #whats{
+        min-width: 30px;
+        max-width: 100%;
+    margin-left: 364%;
+    margin-top: 96%;
+    position:relative;
+    display: inline-block;
+    }
+
+    .textoKobe{
+        min-width: 30px;
+        max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 25.4%;
+    margin-top: 0.4%;  
+    position: absolute;
+    }
+
+    .fonteMBA{
+        min-width: 30px;
+        max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #d3d3d3;
+    font-style: italic;
+    font-size: 11px;
+    margin-left: 25.4%;
+    margin-top: 5%;
+    position: absolute;
+    }
+    
+    .linhaMba { 
+        min-width: 30px;
+        max-width: 100%;
+    margin-top: 27.5%;
+    margin-left: 25.3%;
+    height: 5px;
+    width: 249px;
+    background: black;
+    background: -webkit-gradient(linear, 20 10, 100% 50, from(#76C7CF), to(#675FA6),
+    color-stop(100%, #675FA6));
+	}
+    
+    .textoWhats{
+        min-width: 30px;
+        max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 52.2%;
+    margin-top: 0.5%;  
+    position: absolute;
+    }
+
+    .fonteWhats{
+        min-width: 30px;
+        max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #d3d3d3;
+    font-style: italic;
+    font-size: 11px;
+    margin-left: 52.2%;
+    margin-top: 5%;
+    position: absolute;
+    }
+
+    .linhaWhats { 
+        min-width: 30px;
+        max-width: 100%;
+    margin-top: 0%;
+    margin-left: 52.2%;
+    height: 5px;
+    width: 249px;
+    z-index: 5;
+    background: black;
+    background: -webkit-gradient(linear, 20 10, 100% 50, from(#75C7CF), to(#38B389),
+    color-stop(100%, #38B389));
+	}
+
+    #retanguloRodape{
+        min-width: 30px;
+        max-width: 100%;
+    z-index: 1;
+    position: static;
+    padding-top: 30px;
+    width: 100%;
+    top: 80%;
+    left: 0px;
+    }
+
+    #assinaturaRodape{
+        min-width: 30px;
+        max-width: 100%;
+    z-index: 3;
+    position: absolute;
+    top: 161%;
+    left: 37%;
+    }   
+
+    .direitos p{
+        min-width: 30px;
+        max-width: 100%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    top: 172%;  
+    position: absolute;
+    padding-top: 20px;
+    left: 35%
+    }
